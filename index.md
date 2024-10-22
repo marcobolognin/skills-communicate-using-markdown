@@ -18,6 +18,6 @@ class Markdown:
   def whoisthere(self):
     print("does this work?")
 ```
-- [ ] Turn on GitHub Pages
+- [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [x] Introduce myself to the world
